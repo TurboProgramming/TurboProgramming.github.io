@@ -6,7 +6,7 @@
                 background-image: url("https://github.com/TurboProgramming/FakeBook/blob/master/OzadjeFAKEBOOK12052020.png?raw=true");
                 background-size: cover;
                 background-repeat: no-repeat;        
-                background-repeat: no-repeat;
+                
                 background-attachment: scroll;
             }
             
@@ -14,7 +14,7 @@
                 background-image: url("https://raw.githubusercontent.com/TurboProgramming/FakeBook/master/OzadjeFAKEBOOK_MainPage12052020.png");
                 background-size: cover;
                 background-repeat: no-repeat;        
-                background-repeat: no-repeat;
+               
                 background-attachment: scroll;
             }
 
@@ -74,7 +74,7 @@
             }
 
             .top-left {
-              position: absolute;
+              position: fixed;
               top: 28px;
               left: 2px;
             }
