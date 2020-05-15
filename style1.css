@@ -2,9 +2,15 @@
             .left {text-align:left}
             .right {text-align:right}
             .justify {text-align:justify}
-            body {
+            body.background1 {
                 background-image: url("https://raw.githubusercontent.com/TurboProgramming/FakeBook/master/OzadjeFAKEBOOK_MainPage12052020.png");
-                background-size: 100%
+                background-size: 100% 100%;
+                background-repeat: no-repeat;
+            }
+            
+            body.background2 {
+                background-image: url("https://raw.githubusercontent.com/TurboProgramming/FakeBook/master/OzadjeFAKEBOOK_MainPage12052020.png");
+                background-size: 100% 100%;
                 background-repeat: no-repeat;
             }
 
