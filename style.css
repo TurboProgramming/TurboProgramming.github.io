@@ -1,0 +1,108 @@
+.center {text-align:center}
+            .left {text-align:left}
+            .right {text-align:right}
+            .justify {text-align:justify}
+            body {
+                background-image: url("https://raw.githubusercontent.com/TurboProgramming/FakeBook/master/OzadjeFAKEBOOK_MainPage12052020.png");
+                background-size: 100%
+                background-repeat: no-repeat;
+            }
+
+            a:link {
+              color: black;
+              background-color: transparent;
+              text-decoration: none;
+            }
+            a:visited {
+              color: black;
+              background-color: transparent;
+              text-decoration: none;
+            }
+            a:hover {
+              color: orange;
+              background-color: transparent;
+              text-decoration: underline;
+            }
+            a:active {
+              color: green;
+              background-color: transparent;
+              text-decoration: underline;
+            }
+
+            p.normal {
+              font-weight: normal;
+            }
+
+            p.light {
+              font-weight: lighter;
+            }
+
+            p.thick {
+              font-weight: bold;
+            }
+
+            p.thicker {
+              font-weight: 900;
+            }
+
+
+
+
+
+
+
+            .container {
+              position: relative;
+              text-align: center;
+              color: black;
+            }
+
+            .bottom-left {
+              position: absolute;
+              bottom: 8px;
+              left: 16px;
+            }
+
+            .top-left {
+              position: absolute;
+              top: 28px;
+              left: 2px;
+            }
+
+            .top-left2 {
+              position: absolute;
+              top: 108px;
+              left: 79px;
+            }
+
+            .top-left3 {
+              position: absolute;
+              top: 138px;
+              left: 79px;
+            }
+
+            .top-right {
+              position: absolute;
+              bottom: 110px;
+              right: 400px;
+            }
+
+            .top-right2 {
+              position: absolute;
+              bottom: 50px;
+              right: 200px;
+            }
+
+            .bottom-right {
+              position: absolute;
+              bottom: 8px;
+              right: 16px;
+            }
+
+
+            .centered {
+              position: absolute;
+              top: 50%;
+              left: 50%;
+              transform: translate(-50%, -50%);
+            }
