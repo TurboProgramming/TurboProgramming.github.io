@@ -83,6 +83,7 @@
               position: absolute;
               top: 108px;
               left: 79px;
+              
             }
 
             .top-left3 {
@@ -101,6 +102,22 @@
               position: absolute;
               bottom: 50px;
               right: 200px;
+              left: 1100px;                 
+              width: 400px;
+                border-top-width: 4px;
+                border-top-style: solid;
+                border-right-width: 4px;
+                border-right-style: solid;
+                border-bottom-width: 4px;
+                border-bottom-style: solid;
+                border-left-width: 4px;
+                border-left-style: solid;
+               padding-top: 5px;
+               padding-right: 5px;
+               padding-bottom: 5px;
+               padding-left: 5px;
+              } 
+                        
             }
 
             .bottom-right {
@@ -115,4 +132,10 @@
               top: 50%;
               left: 50%;
               transform: translate(-50%, -50%);
+            }
+
+            .div {
+             height: 400px;
+             width: 325px;
+             background-color: powderblue;
             }
