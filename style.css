@@ -5,15 +5,17 @@
             body.background1 {
                 background-image: url("https://github.com/TurboProgramming/FakeBook/blob/master/OzadjeFAKEBOOK12052020.png?raw=true");
                 background-size: cover;
-                background-position: 50% 50%;        
+                background-repeat: no-repeat;        
                 background-repeat: no-repeat;
+                background-attachment: scroll;
             }
             
             body.background2 {
                 background-image: url("https://raw.githubusercontent.com/TurboProgramming/FakeBook/master/OzadjeFAKEBOOK_MainPage12052020.png");
                 background-size: cover;
-                background-position: 50% 50%;
+                background-repeat: no-repeat;        
                 background-repeat: no-repeat;
+                background-attachment: scroll;
             }
 
             a:link {
