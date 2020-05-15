@@ -4,13 +4,13 @@
             .justify {text-align:justify}
             body.background1 {
                 background-image: url("https://github.com/TurboProgramming/FakeBook/blob/master/OzadjeFAKEBOOK12052020.png?raw=true");
-                background-size: cover;
+                background-size: auto;
                 background-repeat: no-repeat;
             }
             
             body.background2 {
                 background-image: url("https://raw.githubusercontent.com/TurboProgramming/FakeBook/master/OzadjeFAKEBOOK_MainPage12052020.png");
-                background-size: cover;
+                background-size: auto;
                 background-repeat: no-repeat;
             }
 
